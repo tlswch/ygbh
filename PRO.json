@@ -17,7 +17,7 @@
             "name": "🌈豆瓣首页",
             "type": 3,
             "api": "https://agit.ai/767820774/TVBOXZY/raw/branch/main/JS/lib/drpy.min.js",
-            "ext": "http://id.ganggang.live:63/js/js_drpy.js",
+            "ext": "http://w.g9.pub:66/2251087869/smallmi/js/drpy.js",
             "searchable": 0,
             "quickSearch": 0,
             "filterable": 0
@@ -32,6 +32,11 @@
             "quickSearch": 1,
             "filterable": 1,"jar":"https://jihulab.com/ygbh1/box/-/raw/main/JAR/%E6%96%B0%E8%A7%86%E8%A7%89.jar;md5;ECF7785B6F419593E3B1EE190F3903D1"
         },   
+	 
+    
+   
+{"key":"dr_豆瓣","name":"🎞️豆瓣首页2","type":3,"api":"http://id.ganggang.live:63/js/drpy2.min.js","ext": "http://id.ganggang.live:63/js/js_drpy.js","searchable":0,"quickSearch":0,"filterable":0},
+
  {"key": "csp_lezhu","name": "🐷乐猪影视","type": 3,"api": "csp_XPath","searchable": 1,"quickSearch": 0,"filterable": 1,"ext": "https://agit.ai/guot54/ygbh/raw/branch/master/XB/%e4%b9%90%e7%8c%aaXP.json"},
   
 {
@@ -55,7 +60,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://jihulab.com/ygbh1/box/-/raw/main/json/mmtv.json","jar":"https://gitlab.com/ygbh1/666/-/raw/main/JAR/%E6%9C%80%E9%AB%981080%E5%93%94%E5%93%A9%E5%BF%B5%E5%BD%B1%E7%A5%9E%E9%A9%ACzb.jar"
+      "ext": "https://gitlab.com/ygbh1/666/-/raw/main/json/%E7%94%B5%E8%A7%86%E7%9B%B4%E6%92%AD%E6%BA%90.json","jar":"https://gitlab.com/ygbh1/666/-/raw/main/JAR/%E6%9C%80%E9%AB%981080%E5%93%94%E5%93%A9%E5%BF%B5%E5%BD%B1%E7%A5%9E%E9%A9%ACzb.jar"
     },
       {
       "key": "T4直播转点播",
